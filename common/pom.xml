@@ -14,7 +14,7 @@
     <artifactId>common</artifactId>
 
     <modules>
-        <module>base-cache</module>
+        <module>common-cache</module>
         <module>base-mq</module>
         <module>microservice</module>
     </modules>

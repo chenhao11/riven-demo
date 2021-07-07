@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/common/base-cache/base-cache.iml" filepath="$PROJECT_DIR$/common/base-cache/base-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/base-mq/base-mq.iml" filepath="$PROJECT_DIR$/common/base-mq/base-mq.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common-cache/common-cache.iml" filepath="$PROJECT_DIR$/common/common-cache/common-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/common/microservice/microservice.iml" filepath="$PROJECT_DIR$/common/microservice/microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/riven-demo.iml" filepath="$PROJECT_DIR$/.idea/riven-demo.iml" />
     </modules>

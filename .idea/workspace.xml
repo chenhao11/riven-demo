@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1483d6fb-4ec5-459d-9948-5d65edffb432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/base-cache/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/base-mq/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/microservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="1483d6fb-4ec5-459d-9948-5d65edffb432" name="Default Changelist" comment="依赖提交">
+      <change afterPath="$PROJECT_DIR$/common/common-cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/riven-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/riven-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base-cache/base-cache.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base-cache/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/base-mq/base-mq.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common/base-mq/base-mq.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -77,37 +79,69 @@
       <option name="presentableId" value="Default" />
       <updated>1625627241044</updated>
       <workItem from="1625627242391" duration="2248000" />
-      <workItem from="1625634970559" duration="785000" />
+      <workItem from="1625634970559" duration="2302000" />
+      <workItem from="1625637428714" duration="606000" />
     </task>
+    <task id="LOCAL-00001" summary="依赖提交">
+      <created>1625635854830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625635854830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="依赖提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="依赖提交" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="183" key="#Project_Structure" timestamp="1625635674936">
+    <state x="552" y="183" key="#Notifications" timestamp="1625637244739">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635674936" />
+    <state x="552" y="183" key="#Notifications/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637244739" />
+    <state x="552" y="183" key="#Project_Structure" timestamp="1625637769322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637769322" />
     <state x="580" y="203" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1625628470988">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="580" y="203" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625628470988" />
-    <state x="559" y="117" key="CommitChangelistDialog2" timestamp="1625635828372">
+    <state x="559" y="117" key="CommitChangelistDialog2" timestamp="1625637107301">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="559" y="117" key="CommitChangelistDialog2/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635828372" />
+    <state x="559" y="117" key="CommitChangelistDialog2/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637107301" />
     <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1625635369743">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635369743" />
-    <state x="461" y="167" key="SettingsEditor" timestamp="1625635375847">
+    <state x="461" y="167" key="SettingsEditor" timestamp="1625637600944">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635375847" />
-    <state x="334" y="226" key="new project wizard" timestamp="1625635713951">
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637600944" />
+    <state x="552" y="246" key="Vcs.Push.Dialog.v2" timestamp="1625637610255">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="334" y="226" key="new project wizard/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635713951" />
+    <state x="552" y="246" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637610255" />
+    <state x="334" y="226" key="new project wizard" timestamp="1625637967035">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="226" key="new project wizard/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625637967035" />
   </component>
 </project>

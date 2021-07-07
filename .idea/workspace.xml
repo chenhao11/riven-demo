@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1483d6fb-4ec5-459d-9948-5d65edffb432" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/common/base-cache/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/base-mq/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/microservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\code2\riven-demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven" />
+        <option name="mavenHome" value="D:/Dispose/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\RivenChen\.m2\settings2.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uyA1hJdmJjgkAh4ZwBN3VJpT3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code2\riven-demo\common" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1483d6fb-4ec5-459d-9948-5d65edffb432" name="Default Changelist" comment="" />
+      <created>1625627241044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625627241044</updated>
+      <workItem from="1625627242391" duration="2248000" />
+      <workItem from="1625634970559" duration="785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Project_Structure" timestamp="1625635674936">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Project_Structure/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635674936" />
+    <state x="580" y="203" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1625628470988">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="580" y="203" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625628470988" />
+    <state x="559" y="117" key="CommitChangelistDialog2" timestamp="1625635828372">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="559" y="117" key="CommitChangelistDialog2/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635828372" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1625635369743">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635369743" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1625635375847">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635375847" />
+    <state x="334" y="226" key="new project wizard" timestamp="1625635713951">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="334" y="226" key="new project wizard/0.0.1920.1050/1982.0.1858.1080@0.0.1920.1050" timestamp="1625635713951" />
+  </component>
+</project>
